@@ -1,1 +1,0 @@
-worker: node probot.js
